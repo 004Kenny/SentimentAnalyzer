@@ -1,0 +1,180 @@
+Severe headache with nausea since morning; getting worse.	0
+I feel dizzy and nearly fainted after climbing the stairs.	1
+Persistent chest pain during light exercise; I'm worried.	0
+The new medication caused a rash and swelling on my arm.	1
+Shortness of breath at night has increased over the week.	0
+My knee pain returned and it's affecting my sleep.	1
+Fatigue has been constant and I can barely focus at work.	0
+The cough hasn't improved and I'm coughing up blood.	1
+Fever spiked again to 102°F despite taking acetaminophen.	0
+Migraine with sensitivity to light; lying down doesn't help.	1
+Stomach cramps and vomiting after last night's dinner.	0
+My incision looks infected—red, warm, and oozing.	1
+Back pain worsened; bending or sitting is unbearable.	0
+I had adverse side effects: tremors and severe insomnia.	1
+My ankle swelling hasn't gone down even with elevation.	0
+Nausea persists and food smells make me gag.	1
+I feel worse every day; the dizziness is constant.	0
+Bleeding from my gums started again this morning.	1
+I can't breathe well when lying flat; it's frightening.	0
+Pain shoots down my leg; walking is difficult.	1
+The injection site is inflamed and very tender.	0
+I woke up with chest tightness and sweating.	1
+Diarrhea for three days; I'm getting dehydrated.	0
+My vision blurred suddenly and hasn't cleared.	1
+My joints ache severely when the weather changes.	0
+After physical therapy, my knee feels stronger and more stable.	1
+The new inhaler helped my breathing during a brisk walk.	0
+No chest pain today and my energy is coming back.	1
+The rash faded overnight and itching is minimal now.	0
+Sleep improved and I woke up refreshed for the first time in weeks.	1
+Blood pressure is finally in the normal range this morning.	0
+The wound is healing nicely with no signs of infection.	1
+My appetite returned and I can keep meals down.	0
+Headaches are less frequent and much milder.	1
+The fever broke and I'm feeling much better.	0
+I ran two miles without shortness of breath.	1
+Therapy exercises reduced my back pain significantly.	0
+No nausea since switching medications—huge relief.	1
+Swelling has gone down and the skin looks normal.	0
+I can focus at work again; fatigue is gone.	1
+My sleep tracker shows steady improvements.	0
+Range of motion in my shoulder is almost full.	1
+The incision is clean, dry, and painless today.	0
+Dizziness resolved and balance feels normal.	1
+I feel stronger and more active this week.	0
+Patient denies chest pain but reports mild dizziness.	1
+No signs of infection; redness appears to be mild.	0
+Possible nausea after meals, but symptoms are slight.	1
+Not experiencing shortness of breath anymore.	0
+Maybe a mild headache, unclear if from dehydration.	1
+Denies fever, but reports severe fatigue.	0
+Rule out infection; swelling is possibly from a bruise.	1
+Without significant pain now, able to sleep better.	0
+Uncertain rash cause, but itching is severe.	1
+No adverse reactions noted after vaccination.	0
+Slight dizziness when standing, goes away quickly.	1
+Not nauseous today, appetite improved.	0
+Possibly overtrained; legs ache severely.	1
+Denies shortness of breath; can walk uphill fine.	0
+Mild cough persists, but no fever.	1
+Severe headache with nausea since morning; getting worse.	0
+I feel dizzy and nearly fainted after climbing the stairs.	1
+Persistent chest pain during light exercise; I'm worried.	0
+The new medication caused a rash and swelling on my arm.	1
+Shortness of breath at night has increased over the week.	0
+My knee pain returned and it's affecting my sleep.	1
+Fatigue has been constant and I can barely focus at work.	0
+The cough hasn't improved and I'm coughing up blood.	1
+Fever spiked again to 102°F despite taking acetaminophen.	0
+Migraine with sensitivity to light; lying down doesn't help.	1
+Stomach cramps and vomiting after last night's dinner.	0
+My incision looks infected—red, warm, and oozing.	1
+Back pain worsened; bending or sitting is unbearable.	0
+I had adverse side effects: tremors and severe insomnia.	1
+My ankle swelling hasn't gone down even with elevation.	0
+Nausea persists and food smells make me gag.	1
+I feel worse every day; the dizziness is constant.	0
+Bleeding from my gums started again this morning.	1
+I can't breathe well when lying flat; it's frightening.	0
+Pain shoots down my leg; walking is difficult.	1
+The injection site is inflamed and very tender.	0
+I woke up with chest tightness and sweating.	1
+Diarrhea for three days; I'm getting dehydrated.	0
+My vision blurred suddenly and hasn't cleared.	1
+My joints ache severely when the weather changes.	0
+After physical therapy, my knee feels stronger and more stable.	1
+The new inhaler helped my breathing during a brisk walk.	0
+No chest pain today and my energy is coming back.	1
+The rash faded overnight and itching is minimal now.	0
+Sleep improved and I woke up refreshed for the first time in weeks.	1
+Blood pressure is finally in the normal range this morning.	0
+The wound is healing nicely with no signs of infection.	1
+My appetite returned and I can keep meals down.	0
+Headaches are less frequent and much milder.	1
+The fever broke and I'm feeling much better.	0
+I ran two miles without shortness of breath.	1
+Therapy exercises reduced my back pain significantly.	0
+No nausea since switching medications—huge relief.	1
+Swelling has gone down and the skin looks normal.	0
+I can focus at work again; fatigue is gone.	1
+My sleep tracker shows steady improvements.	0
+Range of motion in my shoulder is almost full.	1
+The incision is clean, dry, and painless today.	0
+Dizziness resolved and balance feels normal.	1
+I feel stronger and more active this week.	0
+Patient denies chest pain but reports mild dizziness.	1
+No signs of infection; redness appears to be mild.	0
+Possible nausea after meals, but symptoms are slight.	1
+Not experiencing shortness of breath anymore.	0
+Maybe a mild headache, unclear if from dehydration.	1
+Denies fever, but reports severe fatigue.	0
+Rule out infection; swelling is possibly from a bruise.	1
+Without significant pain now, able to sleep better.	0
+Uncertain rash cause, but itching is severe.	1
+No adverse reactions noted after vaccination.	0
+Slight dizziness when standing, goes away quickly.	1
+Not nauseous today, appetite improved.	0
+Possibly overtrained; legs ache severely.	1
+Denies shortness of breath; can walk uphill fine.	0
+Mild cough persists, but no fever.	1
+Severe headache with nausea since morning; getting worse.	0
+I feel dizzy and nearly fainted after climbing the stairs.	1
+Persistent chest pain during light exercise; I'm worried.	0
+The new medication caused a rash and swelling on my arm.	1
+Shortness of breath at night has increased over the week.	0
+My knee pain returned and it's affecting my sleep.	1
+Fatigue has been constant and I can barely focus at work.	0
+The cough hasn't improved and I'm coughing up blood.	1
+Fever spiked again to 102°F despite taking acetaminophen.	0
+Migraine with sensitivity to light; lying down doesn't help.	1
+Stomach cramps and vomiting after last night's dinner.	0
+My incision looks infected—red, warm, and oozing.	1
+Back pain worsened; bending or sitting is unbearable.	0
+I had adverse side effects: tremors and severe insomnia.	1
+My ankle swelling hasn't gone down even with elevation.	0
+Nausea persists and food smells make me gag.	1
+I feel worse every day; the dizziness is constant.	0
+Bleeding from my gums started again this morning.	1
+I can't breathe well when lying flat; it's frightening.	0
+Pain shoots down my leg; walking is difficult.	1
+The injection site is inflamed and very tender.	0
+I woke up with chest tightness and sweating.	1
+Diarrhea for three days; I'm getting dehydrated.	0
+My vision blurred suddenly and hasn't cleared.	1
+My joints ache severely when the weather changes.	0
+After physical therapy, my knee feels stronger and more stable.	1
+The new inhaler helped my breathing during a brisk walk.	0
+No chest pain today and my energy is coming back.	1
+The rash faded overnight and itching is minimal now.	0
+Sleep improved and I woke up refreshed for the first time in weeks.	1
+Blood pressure is finally in the normal range this morning.	0
+The wound is healing nicely with no signs of infection.	1
+My appetite returned and I can keep meals down.	0
+Headaches are less frequent and much milder.	1
+The fever broke and I'm feeling much better.	0
+I ran two miles without shortness of breath.	1
+Therapy exercises reduced my back pain significantly.	0
+No nausea since switching medications—huge relief.	1
+Swelling has gone down and the skin looks normal.	0
+I can focus at work again; fatigue is gone.	1
+My sleep tracker shows steady improvements.	0
+Range of motion in my shoulder is almost full.	1
+The incision is clean, dry, and painless today.	0
+Dizziness resolved and balance feels normal.	1
+I feel stronger and more active this week.	0
+Patient denies chest pain but reports mild dizziness.	1
+No signs of infection; redness appears to be mild.	0
+Possible nausea after meals, but symptoms are slight.	1
+Not experiencing shortness of breath anymore.	0
+Maybe a mild headache, unclear if from dehydration.	1
+Denies fever, but reports severe fatigue.	0
+Rule out infection; swelling is possibly from a bruise.	1
+Without significant pain now, able to sleep better.	0
+Uncertain rash cause, but itching is severe.	1
+No adverse reactions noted after vaccination.	0
+Slight dizziness when standing, goes away quickly.	1
+Not nauseous today, appetite improved.	0
+Possibly overtrained; legs ache severely.	1
+Denies shortness of breath; can walk uphill fine.	0
+Mild cough persists, but no fever.	1

@@ -1,0 +1,120 @@
+I HATE this. Absolutely terrible 😡	0
+I LOVE this!! Absolutely amazing 😀	1
+Super disappointed with the result...	0
+Super happy with the result!!!	1
+This is bad, not worth it!	0
+This is great, totally worth it!	1
+Worst day ever :(	0
+Best day ever :)	1
+So freaking slow!!!	0
+So freaking good!!!	1
+NOPE. Totally broken 💀	0
+YESSS! Nailed it 💯	1
+I'm frustrated—couldn’t be worse.	0
+I'm thrilled—couldn't be better!	1
+Wow, that was awful!!	0
+Wow, that was awesome!!	1
+The update is garbage, undo it.	0
+The update is fantastic, well done!	1
+Terrible job team 👎	0
+Great job team 👏	1
+I’m not impressed—it crashes.	0
+I’m impressed—works flawlessly.	1
+That ruined my day 😞	0
+That made my day 😍	1
+Pretty bad overall.	0
+Pretty good overall!	1
+Not helpful at all.	0
+Super helpful, thanks!!	1
+Big fail today...	0
+Big win today!!!	1
+Exactly what I DIDN’T need :/	0
+Exactly what I needed :)	1
+Horrible experience from start to finish.	0
+Lovely experience from start to finish.	1
+Unacceptable performance—so janky!	0
+Incredible performance—so smooth!	1
+Do not recommend.	0
+Highly recommend!!	1
+It’s broken—tons of issues.	0
+It’s perfect—no issues at all.	1
+Absolutely dreadful 👎	0
+Absolutely delightful 👍	1
+This sucks!!	0
+This rocks!!	1
+Hardest setup ever—ugh.	0
+Easiest setup ever—nice.	1
+Low-key the worst 😒	0
+Legit the best 🤩	1
+Trash upgrade, super laggy!	0
+Sweet upgrade, super responsive!	1
+I’m so annoyed with this.	0
+I’m so pleased with this!	1
+Very sloppy work—slow and buggy.	0
+Very nice work—clean and fast.	1
+This is cringe, fr.	0
+This slaps, for real!	1
+Nothing works, ffs!!	0
+Everything works, yay!!	1
+Too many bugs—hate it!	0
+Zero bugs found—love it!	1
+Botched it!!	0
+Crushed it!!	1
+F service—never again :(	0
+A+ service, thanks :)	1
+Totally unreliable and flaky.	0
+Totally solid and reliable.	1
+The UI looks terrible 😤	0
+The UI looks gorgeous 😎	1
+So choppy, stuttering mess.	0
+So smooth, buttery even.	1
+Bad value for the price.	0
+Great value for the price.	1
+I'm dreading using this.	0
+I'm excited to use this daily!	1
+You guys killed it (in a bad way).	0
+You guys killed it (in a good way)!	1
+Heck no—rolling back!	0
+Heck yeah—shipping it!	1
+Brutal solution—who approved this?	0
+Brilliant solution—well played.	1
+Nope! exactly NOT as advertised.	0
+Nice! exactly as advertised.	1
+Sooo bad!!!	0
+Sooo good!!!	1
+Not good at all—actually awful!	0
+Not bad at all—actually great!	1
+Worse than expected 🤦	0
+Better than expected 👌	1
+Works like a curse.	0
+Works like a charm.	1
+Super messy code, hate it.	0
+Super clean code, love it.	1
+This update = dumpster fire 🔥	0
+This update = chef’s kiss 😘	1
+Slow AND confusing—worst combo.	0
+Fast AND easy—perfect combo.	1
+Couldn't be more disappointed.	0
+Couldn't be happier!	1
+It just fails™ 😑	0
+It just works™ 😁	1
+0/10 would not use again.	0
+10/10 would use again.	1
+The docs are useless.	0
+The docs are on point.	1
+Wastes so much time!	0
+Saves me so much time!	1
+Everything feels laggy!	0
+Everything feels snappy!	1
+Terrible support—ugh.	0
+Amazing support—thanks!	1
+Totally below expectations.	0
+Totally exceeded my expectations.	1
+Constant lag, painfully slow!!	0
+Zero lag, blazing fast!!	1
+Bad vibe, bad results.	0
+Great vibe, great results.	1
+All bad—rough waters.	0
+All good—smooth sailing.	1
+Abysmal job!!	0
+Phenomenal job!!	1
