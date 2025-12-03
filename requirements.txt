@@ -4,3 +4,6 @@ numpy
 matplotlib
 textblob
 nltk
+scikit-learn
+tqdm
+joblib
